@@ -1,0 +1,3 @@
+//praktek 10
+#include <stdio.h>
+#include <string.h>
